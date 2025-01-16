@@ -1,0 +1,11 @@
+datasets:
+  # web
+  - json_path: data/aguvis/train/seeclick.json
+    images_folder: seeclick/seeclick_web_imgs/
+    sampling_strategy: "all"
+  - json_path: data/aguvis/train/guienv.json
+    images_folder: guienvs/images/
+    sampling_strategy: "all"
+  - json_path: data/aguvis/train/webui350k.json
+    images_folder: webui350k/images/
+    sampling_strategy: "all"

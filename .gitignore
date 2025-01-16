@@ -246,3 +246,8 @@ wandb/
 results/*
 data/train/*
 data/images/*
+data/aguvis-stage1/*
+data/guienvs/*
+data/seeclick/*
+data/webui350k/*
+data/aguvis/train/*
